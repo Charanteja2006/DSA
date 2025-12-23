@@ -1,28 +1,36 @@
 class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
-        sort(events.begin(), events.end(),
-             [](const vector<int>& a, const vector<int>& b) {
-                 return a[1] < b[1];
-             });
-        vector<vector<int>> start_sorted = events;
-        sort(start_sorted.begin(), start_sorted.end());
+        int n = events.size();
+        sort(events.begin(), events.end());
+        vector<int> maxSuffix(n);
+        maxSuffix[n - 1] = events[n - 1][2];
+
+        for (int i = n - 2; i >= 0; i--) {
+            maxSuffix[i] = max(maxSuffix[i + 1], events[i][2]);
+        }
+
         int ans = 0;
-        for (auto &e : events)
-            ans = max(ans, e[2]);
 
-        int end_max = 0;
-        int i = 0;
+        for (int i = 0; i < n; i++) {
+            int currValue = events[i][2];
+            ans = max(ans, currValue);
 
-        for (auto &e : start_sorted) {
-            int start = e[0];
-            int value = e[2];
-            while (i < events.size() && events[i][1] < start) {
-                end_max = max(end_max, events[i][2]);
-                i++;
+            int nextStart = events[i][1] + 1;
+            int low = i + 1, high = n - 1, idx = -1;
+            while (low <= high) {
+                int mid = (low + high) / 2;
+                if (events[mid][0] >= nextStart) {
+                    idx = mid;
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
             }
 
-            ans = max(ans, value + end_max);
+            if (idx != -1) {
+                ans = max(ans, currValue + maxSuffix[idx]);
+            }
         }
 
         return ans;
