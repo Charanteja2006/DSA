@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Hash Table
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
