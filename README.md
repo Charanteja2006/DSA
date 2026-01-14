@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3453-separate-squares-i](https://github.com/Charanteja2006/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Charanteja2006/DSA/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/Charanteja2006/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Charanteja2006/DSA/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Charanteja2006/DSA/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Charanteja2006/DSA/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
