@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Stack
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
