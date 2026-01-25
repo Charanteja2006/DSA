@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Charanteja2006/DSA/tree/master/1895-largest-magic-square) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Charanteja2006/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Charanteja2006/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Charanteja2006/DSA/tree/master/3453-separate-squares-i) |
@@ -132,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
