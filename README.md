@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Charanteja2006/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Charanteja2006/DSA/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/Charanteja2006/DSA/tree/master/0799-champagne-tower) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Charanteja2006/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Charanteja2006/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
