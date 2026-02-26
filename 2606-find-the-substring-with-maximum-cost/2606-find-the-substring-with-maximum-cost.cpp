@@ -1,24 +1,25 @@
 class Solution {
 public:
     int maximumCostSubstring(string s, string chars, vector<int>& vals) {
-        int n = chars.size();
-        map<char,int> mp;
-        for(int i=0;i<n;i++)
-            mp[chars[i]] = vals[i];
-        for(int i=0;i<26;i++){
-            char c = 'a' + i;
-            if(mp.count(c)) continue;
-            else mp[c] = i+1;
+        
+        vector<int> v(26);
+        for(int i=0; i<26; i++) v[i]=i+1;
+        for(int i=0; i<chars.size(); i++){
+            v[chars[i]-'a'] = vals[i];
         }
-
-        int maxi = 0;
-        int cur = 0;
-        for(int i=0;i<s.size();i++){
-            if(cur<0) cur = 0;
-            cur += mp[s[i]];
-            maxi = max(maxi,cur);
+        int n = s.size();
+       
+        vector<int> vt(n);
+        for(int i=0; i<s.size(); i++){
+            vt[i] = v[s[i]-'a'];
         }
-
-        return maxi;
+        int ans=0, temp=0;
+        for(int i=0; i<n; i++){
+            temp += vt[i];
+            if(temp<0) temp=0;
+           
+            ans = max(ans, temp);
+        }
+        return ans;
     }
 };
