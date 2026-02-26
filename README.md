@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Charanteja2006/DSA/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Charanteja2006/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Charanteja2006/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Charanteja2006/DSA/tree/master/0799-champagne-tower) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Charanteja2006/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Charanteja2006/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Charanteja2006/DSA/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Charanteja2006/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Charanteja2006/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Charanteja2006/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Charanteja2006/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Charanteja2006/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Charanteja2006/DSA/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Charanteja2006/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Charanteja2006/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
