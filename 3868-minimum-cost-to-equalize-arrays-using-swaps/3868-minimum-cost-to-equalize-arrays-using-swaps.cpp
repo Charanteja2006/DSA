@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minCost(vector<int>& nums1, vector<int>& nums2) {
-        map<int,int> mp1, mp2, mp;
+        unordered_map<int,int> mp1, mp2, mp;
         int n = nums1.size();
 
         for(int i = 0; i < n; i++){
