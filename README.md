@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
+| [0134-gas-station](https://github.com/Charanteja2006/DSA/tree/master/0134-gas-station) |
 | [0300-longest-increasing-subsequence](https://github.com/Charanteja2006/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Charanteja2006/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Charanteja2006/DSA/tree/master/0518-coin-change-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Charanteja2006/DSA/tree/master/0134-gas-station) |
 | [1382-balance-a-binary-search-tree](https://github.com/Charanteja2006/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Charanteja2006/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
