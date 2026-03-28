@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2906-construct-product-matrix](https://github.com/Charanteja2006/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Charanteja2006/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Charanteja2006/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Charanteja2006/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Charanteja2006/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Charanteja2006/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Charanteja2006/DSA/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/Charanteja2006/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Charanteja2006/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Charanteja2006/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Charanteja2006/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Charanteja2006/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Charanteja2006/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Charanteja2006/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Charanteja2006/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Charanteja2006/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Charanteja2006/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Charanteja2006/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Backtracking
