@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Charanteja2006/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Charanteja2006/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Charanteja2006/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Charanteja2006/DSA/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Charanteja2006/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Charanteja2006/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Charanteja2006/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Charanteja2006/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
