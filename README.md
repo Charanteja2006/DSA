@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-total-distance-traveled](https://github.com/Charanteja2006/DSA/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Charanteja2006/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Charanteja2006/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Charanteja2006/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Charanteja2006/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Charanteja2006/DSA/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Charanteja2006/DSA/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
