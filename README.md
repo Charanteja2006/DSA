@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Charanteja2006/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Charanteja2006/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Charanteja2006/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Charanteja2006/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Charanteja2006/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Charanteja2006/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Charanteja2006/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Charanteja2006/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Charanteja2006/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Charanteja2006/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Charanteja2006/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
