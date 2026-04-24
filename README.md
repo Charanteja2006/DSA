@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Charanteja2006/DSA/tree/master/0518-coin-change-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Charanteja2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Charanteja2006/DSA/tree/master/0874-walking-robot-simulation) |
+| [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/Charanteja2006/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Charanteja2006/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Charanteja2006/DSA/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Charanteja2006/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
+| [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Charanteja2006/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Charanteja2006/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Charanteja2006/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
