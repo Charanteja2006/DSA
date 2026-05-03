@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/Charanteja2006/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Charanteja2006/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/Charanteja2006/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Charanteja2006/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Charanteja2006/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Charanteja2006/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Charanteja2006/DSA/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Charanteja2006/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Two Pointers
 |  |
