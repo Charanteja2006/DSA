@@ -16,11 +16,11 @@ public:
         pq.push({0,src});
 
         while(!pq.empty()){
-            int dist = pq.top().first;
+            long long dist = pq.top().first;
             int u = pq.top().second;
             pq.pop();
 
-            if(dist!=dis[u]) continue;
+            if(dist>dis[u]) continue;
 
             for(auto it:adj[u]){
                 int v = it.v;
