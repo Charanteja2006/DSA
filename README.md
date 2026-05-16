@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Charanteja2006/DSA/tree/master/0518-coin-change-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Charanteja2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Charanteja2006/DSA/tree/master/0874-walking-robot-simulation) |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [1109-corporate-flight-bookings](https://github.com/Charanteja2006/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Charanteja2006/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Charanteja2006/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Charanteja2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Charanteja2006/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Charanteja2006/DSA/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Charanteja2006/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Charanteja2006/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Charanteja2006/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -484,4 +488,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Charanteja2006/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
