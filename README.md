@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/Charanteja2006/DSA/tree/master/0134-gas-station) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Charanteja2006/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Charanteja2006/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Charanteja2006/DSA/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Charanteja2006/DSA/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Charanteja2006/DSA/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Charanteja2006/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1980-find-unique-binary-string) |
