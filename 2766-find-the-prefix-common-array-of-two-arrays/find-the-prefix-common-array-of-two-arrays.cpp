@@ -8,7 +8,6 @@ public:
         for(int i=0;i<n;i++){
             if(A[i]==B[i]){
                 count++;
-                s.insert(A[i]);
                 ans[i] = count;
             }
             else{
