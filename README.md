@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Charanteja2006/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Charanteja2006/DSA/tree/master/0198-house-robber) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Charanteja2006/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
