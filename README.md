@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Charanteja2006/DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Charanteja2006/DSA/tree/master/0198-house-robber) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Charanteja2006/DSA/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
