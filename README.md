@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0057-insert-interval](https://github.com/Charanteja2006/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Charanteja2006/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
