@@ -14,14 +14,14 @@ public:
                     freebies++;
             }
 
-            value[i] = 1 + freebies;   // first purchased copy + freebies
+            value[i] = 1 + freebies;   
             minPrice = min(minPrice, items[i][1]);
         }
 
         vector<int> dp(budget + 1, -1e9);
         dp[0] = 0;
 
-        // 0/1 knapsack for buying the first copy of each type
+       
         for (int i = 0; i < n; i++) {
             int cost = items[i][1];
 
@@ -33,7 +33,7 @@ public:
         int ans = 0;
 
         for (int spent = 0; spent <= budget; spent++) {
-            if (dp[spent] < 0) continue;
+            
 
             int remaining = budget - spent;
 
