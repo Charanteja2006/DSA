@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Charanteja2006/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Charanteja2006/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Charanteja2006/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Charanteja2006/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Charanteja2006/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Charanteja2006/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/Charanteja2006/DSA/tree/master/3838-weighted-word-mapping) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Charanteja2006/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Charanteja2006/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Charanteja2006/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Charanteja2006/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Charanteja2006/DSA/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
