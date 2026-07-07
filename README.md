@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Charanteja2006/DSA/tree/master/0064-minimum-path-sum) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charanteja2006/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Charanteja2006/DSA/tree/master/0091-decode-ways) |
 | [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Charanteja2006/DSA/tree/master/0401-binary-watch) |
