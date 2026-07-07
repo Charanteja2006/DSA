@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0057-insert-interval](https://github.com/Charanteja2006/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Charanteja2006/DSA/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Charanteja2006/DSA/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Charanteja2006/DSA/tree/master/1861-rotating-the-box) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Charanteja2006/DSA/tree/master/1288-remove-covered-intervals) |
