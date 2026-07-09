@@ -34,11 +34,11 @@ public:
                     ans = max(ans,dp[i][j]);
                 }
                 else{
-                    ans = max(ans,solve(i,j,dp,matrix));
+                    ans = max(ans,1+solve(i,j,dp,matrix));
                 }
             }
         }
 
-        return ans+1;
+        return ans;
     }
 };
