@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Charanteja2006/DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Charanteja2006/DSA/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Charanteja2006/DSA/tree/master/0401-binary-watch) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Charanteja2006/DSA/tree/master/0089-gray-code) |
 | [0396-rotate-function](https://github.com/Charanteja2006/DSA/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Charanteja2006/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Charanteja2006/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Charanteja2006/DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Charanteja2006/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Charanteja2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/Charanteja2006/DSA/tree/master/0401-binary-watch) |
