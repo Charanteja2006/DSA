@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Charanteja2006/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Charanteja2006/DSA/tree/master/0127-word-ladder) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Charanteja2006/DSA/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/Charanteja2006/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Charanteja2006/DSA/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Charanteja2006/DSA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Charanteja2006/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Charanteja2006/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Charanteja2006/DSA/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Charanteja2006/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Charanteja2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Charanteja2006/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0459-repeated-substring-pattern](https://github.com/Charanteja2006/DSA/tree/master/0459-repeated-substring-pattern) |
