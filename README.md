@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Charanteja2006/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Charanteja2006/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/Charanteja2006/DSA/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Charanteja2006/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Charanteja2006/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1306-jump-game-iii](https://github.com/Charanteja2006/DSA/tree/master/1306-jump-game-iii) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Charanteja2006/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Charanteja2006/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charanteja2006/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/Charanteja2006/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Charanteja2006/DSA/tree/master/1345-jump-game-iv) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Charanteja2006/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Charanteja2006/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Charanteja2006/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
