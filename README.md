@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Charanteja2006/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Charanteja2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1109-corporate-flight-bookings](https://github.com/Charanteja2006/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Charanteja2006/DSA/tree/master/1288-remove-covered-intervals) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Charanteja2006/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Charanteja2006/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Charanteja2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Charanteja2006/DSA/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Charanteja2006/DSA/tree/master/1345-jump-game-iv) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Charanteja2006/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Charanteja2006/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0994-rotting-oranges](https://github.com/Charanteja2006/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Charanteja2006/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Charanteja2006/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Charanteja2006/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
