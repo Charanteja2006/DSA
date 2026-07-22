@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Charanteja2006/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Charanteja2006/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Charanteja2006/DSA/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Charanteja2006/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Charanteja2006/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Charanteja2006/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Charanteja2006/DSA/tree/master/0322-coin-change) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Charanteja2006/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Charanteja2006/DSA/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Charanteja2006/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Charanteja2006/DSA/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Charanteja2006/DSA/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
