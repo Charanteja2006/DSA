@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Charanteja2006/DSA/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Charanteja2006/DSA/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Charanteja2006/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Charanteja2006/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Charanteja2006/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Charanteja2006/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Charanteja2006/DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Charanteja2006/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Charanteja2006/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Charanteja2006/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Charanteja2006/DSA/tree/master/0696-count-binary-substrings) |
