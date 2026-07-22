@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Charanteja2006/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Charanteja2006/DSA/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/Charanteja2006/DSA/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Charanteja2006/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Charanteja2006/DSA/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
