@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Charanteja2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Charanteja2006/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Charanteja2006/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Charanteja2006/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Charanteja2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Charanteja2006/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Charanteja2006/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Charanteja2006/DSA/tree/master/0064-minimum-path-sum) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Charanteja2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charanteja2006/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charanteja2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Charanteja2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Charanteja2006/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Charanteja2006/DSA/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Charanteja2006/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Charanteja2006/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Charanteja2006/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Charanteja2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Charanteja2006/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Charanteja2006/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Charanteja2006/DSA/tree/master/0189-rotate-array) |
