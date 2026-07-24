@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charanteja2006/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Charanteja2006/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Charanteja2006/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charanteja2006/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Charanteja2006/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Charanteja2006/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Charanteja2006/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Charanteja2006/DSA/tree/master/1291-sequential-digits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Charanteja2006/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Charanteja2006/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charanteja2006/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Charanteja2006/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Charanteja2006/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Charanteja2006/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Charanteja2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Charanteja2006/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charanteja2006/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Charanteja2006/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Charanteja2006/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Charanteja2006/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charanteja2006/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Charanteja2006/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Charanteja2006/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Charanteja2006/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Charanteja2006/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
