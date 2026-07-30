@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Charanteja2006/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Charanteja2006/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Charanteja2006/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Charanteja2006/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Charanteja2006/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Charanteja2006/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Charanteja2006/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Charanteja2006/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Charanteja2006/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Charanteja2006/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Charanteja2006/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Charanteja2006/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
