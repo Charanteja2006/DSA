@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Charanteja2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Charanteja2006/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Charanteja2006/DSA/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Charanteja2006/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Charanteja2006/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Charanteja2006/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Charanteja2006/DSA/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Charanteja2006/DSA/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sorting
 |  |
 | ------- |
