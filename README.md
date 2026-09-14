@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Charanteja2006/DSA/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charanteja2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/Charanteja2006/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Charanteja2006/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Charanteja2006/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Charanteja2006/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Charanteja2006/DSA/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Charanteja2006/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Number Theory
 |  |
