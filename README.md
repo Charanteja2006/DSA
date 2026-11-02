@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Charanteja2006/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/Charanteja2006/DSA/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Charanteja2006/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Charanteja2006/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/Charanteja2006/DSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charanteja2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Charanteja2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Charanteja2006/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Charanteja2006/DSA/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Charanteja2006/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charanteja2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Charanteja2006/DSA/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Charanteja2006/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Charanteja2006/DSA/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Charanteja2006/DSA/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Charanteja2006/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Charanteja2006/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Charanteja2006/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Charanteja2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/Charanteja2006/DSA/tree/master/0836-rectangle-overlap) |
