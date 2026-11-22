@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Charanteja2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Charanteja2006/DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Charanteja2006/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Charanteja2006/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Charanteja2006/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Charanteja2006/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Charanteja2006/DSA/tree/master/2573-find-the-string-with-lcp) |
